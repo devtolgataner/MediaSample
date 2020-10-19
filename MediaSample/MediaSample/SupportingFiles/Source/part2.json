@@ -1,0 +1,88 @@
+{
+"section": [
+    {
+    "type":"product",
+    "title":"section1",
+    "products": [
+    {
+        "id": 1,
+        "price":123,
+        "title" : "Perfect product just for you",
+        "imageUrl": "https://via.placeholder.com/150/771796",
+        "width":150,
+        "height":150
+  },
+  {
+        "id": 2,
+        "price":123,
+        "title" : "Perfect product just for you",
+        "imageUrl": "https://via.placeholder.com/150/771796",
+        "width":150,
+        "height":150
+  },
+  {
+        "id": 3,
+        "price":123,
+        "title" : "Perfect product just for you",
+        "imageUrl": "https://via.placeholder.com/150/771796",
+        "width":150,
+        "height":150
+  }
+]
+    },
+    {
+"type":"video",
+"title":"section2",
+"videos": [
+ 
+    {
+        "id": 1,
+        "title":"dummy title",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+  {
+        "id": 2,
+        "title":"dummy title",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+        "id": 3,
+        "title":"dummy title",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+        "id": 4,
+        "title":"dummy title",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+        "id": 5,
+        "title":"dummy title",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+        "id": 6,
+        "title":"dummy title",
+        "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+  },
+  {
+        "id": 7,
+        "title":"dummy title",
+        "url": "http://www.ebookfrenzy.com/ios_book/movie/movie.mov"
+  },
+  {
+        "id": 8,
+        "title":"dummy title",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+        "id": 9,
+        "title":"dummy title",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  }
+]
+}
+]
+}
+  
+
