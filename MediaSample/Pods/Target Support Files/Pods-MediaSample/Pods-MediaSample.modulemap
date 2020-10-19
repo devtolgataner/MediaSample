@@ -1,0 +1,6 @@
+framework module Pods_MediaSample {
+  umbrella header "Pods-MediaSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
